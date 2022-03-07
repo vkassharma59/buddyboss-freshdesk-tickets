@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ body.post-type-wpdl_tracked .wrap .wp-heading-inline + .page-title-action {
+    display: none;
+}
